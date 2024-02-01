@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm JIED</h1>
 <h3 align="center">A passionate Software engineer interested in all things related to software development, system design, and technology.</h3>
+![giphy](https://github.com/JIED00/JIED00/assets/158483221/d89c904f-7cff-462a-8046-40a975772253)
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/mohammed-jied/</h3>
 <p align="left">
