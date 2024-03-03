@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm JIED</h1>
-<h3 align="center">A passionate Software engineer interested in all things related to software development, system design, and technology.</h3>
+<h3 align="center">Hey there! I'm a software engineer on a mission to understand the world and myself through technology. I'm passionate about development, system design, and physics. Let's dive into the depths of exploration together.</h3>
 
 
 
 <p align="right">
-
- <img align="right" src="https://github.com/JIED00/JIED00/assets/158483221/2db4559b-e5bb-4701-9de7-6d70a0097dc6" alt="giphy"/>
+<!-- ![giphy (1)](https://github.com/JIED00/JIED00/assets/158483221/3ec72159-26da-4951-81dd-9dc57410acc2) -->
+<!-- https://github.com/JIED00/JIED00/assets/158483221/2db4559b-e5bb-4701-9de7-6d70a0097dc6 -->
+ <img align="right" src="https://github.com/JIED00/JIED00/assets/158483221/3ec72159-26da-4951-81dd-9dc57410acc2" alt="giphy"/>
   
 </p>
 
